@@ -112,7 +112,7 @@ for i in range(5):
     lst1.pop(index)
     lst2.pop(index)
 
-
+#Возможно стоит
 
 
 
